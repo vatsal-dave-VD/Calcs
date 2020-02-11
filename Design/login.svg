@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg903"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="login.svg">
+  <defs
+     id="defs897" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="527.50464"
+     inkscape:cy="365.34849"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata900">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <rect
+       style="opacity:1;fill:#008080;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1448"
+       width="298.27277"
+       height="24.588795"
+       x="-0.53453904"
+       y="85.857079" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.19502926px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.37987572"
+       x="7.5043612"
+       y="93.68235"
+       id="text1452"
+       transform="scale(0.89678105,1.1150994)"><tspan
+         sodipodi:role="line"
+         x="7.5043612"
+         y="93.68235"
+         style="fill:#ffff00;stroke-width:0.37987572"
+         id="tspan1454">CALCS</tspan></text>
+    <rect
+       style="opacity:1;fill:#999999;fill-opacity:1;stroke:#000000;stroke-width:1.06563497;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1460"
+       width="222.86418"
+       height="142.06512"
+       x="38.506088"
+       y="138.27731" />
+    <rect
+       style="opacity:1;fill:#ac9d93;fill-opacity:1;stroke:#000000;stroke-width:1.02707648;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1464"
+       width="187.6232"
+       height="18.044079"
+       x="56.126598"
+       y="155.0271" />
+    <rect
+       style="opacity:1;fill:#ac9d93;fill-opacity:1;stroke:#000000;stroke-width:1.02707648;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1464-6"
+       width="187.6232"
+       height="18.044079"
+       x="56.393875"
+       y="194.39313" />
+    <rect
+       style="opacity:1;fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1481"
+       width="94.613411"
+       height="19.243404"
+       x="105.26659"
+       y="234.95583" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.14595413px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40364882"
+       x="126.86188"
+       y="131.00676"
+       id="text1485"
+       transform="scale(0.9943785,1.0056533)"><tspan
+         sodipodi:role="line"
+         id="tspan1483"
+         x="126.86188"
+         y="131.00676"
+         style="stroke-width:0.40364882">LOGIN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="121.82389"
+       y="168.22989"
+       id="text1489"><tspan
+         sodipodi:role="line"
+         id="tspan1487"
+         x="121.82389"
+         y="168.22989"
+         style="fill:#b3b3b3;stroke-width:0.26458332">USERNAME</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="121.82389"
+       y="206.72208"
+       id="text1493"><tspan
+         sodipodi:role="line"
+         id="tspan1491"
+         x="121.82389"
+         y="206.72208"
+         style="fill:#b3b3b3;stroke-width:0.26458332">PASSWORD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="135.67075"
+       y="247.88696"
+       id="text1497"><tspan
+         sodipodi:role="line"
+         id="tspan1495"
+         x="135.67075"
+         y="247.88696"
+         style="fill:#800000;stroke-width:0.26458332">LOGIN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="94.613426"
+       y="186.94951"
+       id="text1501"><tspan
+         sodipodi:role="line"
+         id="tspan1499"
+         x="94.613426"
+         y="186.94951"
+         style="fill:#ff0000;stroke-width:0.26458332">INVALID USERNAME</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="97.286118"
+       y="228.10901"
+       id="text1505"><tspan
+         sodipodi:role="line"
+         id="tspan1503"
+         x="97.286118"
+         y="228.10901"
+         style="fill:#ff0000;stroke-width:0.26458332">INVALID PASSWORD</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="48.108513"
+       y="271.87668"
+       id="text1509"><tspan
+         sodipodi:role="line"
+         id="tspan1507"
+         x="48.108513"
+         y="271.87668"
+         style="fill:#000000;stroke-width:0.26458332">Not a memeber <tspan
+   style="fill:#000000"
+   id="tspan1511"><tspan
+   style="fill:#0000ff"
+   id="tspan1517">click here</tspan> to become!!</tspan></tspan></text>
+  </g>
+</svg>
