@@ -1,12 +1,23 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import Calcs from './component/homePage/Calcs';
+import Login from './component/logIn/Login';
+import SignUp from './component/signUp/SignUp';
+import MainCalc from './component/calcs/MainCalc';
 
 function App() {
   return (
-    <div className="App">
-      
-    </div>
+    <Router>
+      <>
+      <Switch>
+        <Route path="/" exact component={Calcs} />
+        <Route path="/Login" exact component={Login} />
+        <Route path="/SignUp" exact component={SignUp} />
+        <Route path="/Calculator" exact component={MainCalc} />
+      </Switch>
+      </>
+    </Router>
   );
 }
 
